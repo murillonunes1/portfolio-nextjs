@@ -63,7 +63,7 @@ const resume = () => {
           
         </div>
 
-        {/* Experienc */}
+        {/* Experience */}
         <div className='py-6'>
           <p className='italic'>
           </p>

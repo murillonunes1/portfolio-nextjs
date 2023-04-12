@@ -85,17 +85,6 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
           </p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-              Front-end skills, using the right frameworks; adding and maintaining interactions, creating structured web pages, and responsive design;
-            </li>
-            <li>
-              Implementing features that interact with back-end systems, such as user authentication, data storage, and API integration;
-            </li>
-            <li>
-              Problem-solving, team worker, self-taught, fast learner, communicative, organized.
-            </li>
-          </ul>
         </div>
 
         {/*  */}

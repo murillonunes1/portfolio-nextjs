@@ -29,14 +29,14 @@ const property = () => {
             Ipsum loren
           </p>
           <a
-            href='#'
+            href='https://github.com/murillonunes1'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='#'
+            href='https://github.com/murillonunes1#'
             target='_blank'
             rel='noreferrer'
           >

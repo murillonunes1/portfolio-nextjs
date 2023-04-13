@@ -43,7 +43,7 @@ const resume = () => {
         Sou um estudante de desenvolvimento front-end, estou dedicado a aprimorar minhas habilidades em programação para fornecer soluções inovadoras e envolventes para os usuários finais. Estou focado atualmente em desenvolver a parte client-side de websites e aplicações web/mobile, desenvolvendo projetos como freelancer, usando habilidades em linguagens de programação como JavaScript e TypeScript, tendo experiência com os principais frameworks de front-end, como React, Angular e Next. Tenho a capacidade de colaborar com outros desenvolvedores e designers para criar soluções inteligentes e escaláveis e também sou capaz de trabalhar de forma independente e gerenciar meus próprios projetos!
         </p>
 
-        {/* Skills */}
+        {/* Habilidades */}
         <div className='text-center py-4'>
       
           <p className='py-2'>
@@ -63,7 +63,7 @@ const resume = () => {
           
         </div>
 
-        {/* Experience */}
+        {/* Exp */}
         <div className='py-6'>
           <p className='italic'>
           </p>
@@ -81,7 +81,7 @@ const resume = () => {
         </div>
 
 
-        {/* Personal Experience */}
+        {/* Exp pessoal */}
         <div className='py-6'>
           <p className='italic'>
           </p>
@@ -89,7 +89,7 @@ const resume = () => {
 
         {/*  */}
     
-        {/* Experience */}
+        {/* # */}
         <div className='py-6'>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             

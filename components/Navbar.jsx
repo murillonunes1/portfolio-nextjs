@@ -98,14 +98,14 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* Mobile Menu */}
-      {/* Overlay */}
+      {/* Menu mobile */}
+      {/* Overlay pg */}
       <div
         className={
           nav ? 'md:hidden fixed left-0 top-0 w-full h-screen bg-black/70' : ''
         }
       >
-        {/* Side Drawer Menu */}
+        {/* Menu lateral */}
         <div
           className={
             nav
@@ -160,11 +160,6 @@ const Navbar = () => {
                   Projetos
                 </li>
               </Link>
-              <Link href='/#resume'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm'>
-                  Resumo
-                </li>
-              </Link>
               <Link href='/#contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Contato
@@ -177,7 +172,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                  href='https://www.linkedin.com/in/murillo-nunes-476564262/'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -186,7 +181,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/murillonunes1'
                   target='_blank'
                   rel='noreferrer'
                 >

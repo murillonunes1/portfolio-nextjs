@@ -134,7 +134,7 @@ const Navbar = () => {
             </div>
             <div className='border-b border-gray-300 my-4'>
               <p className='w-[85%] md:w-[90%] py-4'>
-                Let&#39;s build something legendary together
+                Let&#39;s build something together!
               </p>
             </div>
           </div>
@@ -160,7 +160,11 @@ const Navbar = () => {
                   Projetos
                 </li>
               </Link>
-  
+              <Link href='/#resume'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm'>
+                  Resumo
+                </li>
+              </Link>
               <Link href='/#contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Contato

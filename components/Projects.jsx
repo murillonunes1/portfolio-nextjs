@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import propertyImg from '../public/assets/projects/property.png';
-import cryptoImg from '../public/assets/projects/crypto.png'
-import netflixImg from '../public/assets/projects/netflix.png'
-import twitchImg from '../public/assets/projects/twitch.png'
+import cowebImg from '../public/assets/projects/coweb.png';
+import businessImg from '../public/assets/projects/business.png'
+import autocenterImg from '../public/assets/projects/autocenter.png'
+import designxImg from '../public/assets/projects/designx.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -18,25 +18,25 @@ const Projects = () => {
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Caratta Oliva Website'
-            backgroundImg={propertyImg}
+            backgroundImg={cowebImg}
             projectUrl='/coweb'
           />
           <ProjectItem
             title='Business Website'
-            backgroundImg={cryptoImg}
-            projectUrl='/rentacar'
+            backgroundImg={businessImg}
+            projectUrl='/business'
 
           />
           <ProjectItem
             title='AutoCenter Website'
-            backgroundImg={netflixImg}
-            projectUrl='/ecommerce'
+            backgroundImg={autocenterImg}
+            projectUrl='/autocenter'
 
           />
           <ProjectItem
             title='DesignX Website'
-            backgroundImg={twitchImg}
-            projectUrl='/stream'
+            backgroundImg={designxImg}
+            projectUrl='/designx'
 
           />
         </div>

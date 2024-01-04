@@ -15,7 +15,7 @@ const Projects = () => {
           Projetos
         </p>
         <h2 className='py-4'>What I&apos;ve built</h2>
-        <div className='grid md:grid-cols-2 gap-8'>
+        <div className='grid md:grid-cols-2 gap-8 text-[#E6D75C]'>
           <ProjectItem
             title='Caratta Oliva Website'
             backgroundImg={cowebImg}

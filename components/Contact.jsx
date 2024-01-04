@@ -16,7 +16,7 @@ const Contact = () => {
         <h2 className='py-4'>Contact me</h2>
         <div className='grid lg:grid-cols-5 gap-8'>
           {/* esquerda */}
-          <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4'>
+          <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 text-[#E6D75C] rounded-xl p-4'>
             <div className='lg:p-4 h-full '>
               <div>
                 <Image
@@ -30,13 +30,13 @@ const Contact = () => {
                 <p>Front-End Developer</p>
               </div>
               <div>
-                <div className='flex items-center justify py-6'>
+                <div className='flex items-center justify py-6 text-[#E6D75C]'>
                   <a
                     href='https://www.linkedin.com/in/murillo-nunes-476564262/'
                     target='_blank'
                     rel='noreferrer'
                   >
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                    <div className='rounded-full shadow-lg shadow-gray-400 text-[#E6D75C] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaLinkedinIn />
                     </div>
                   </a>
@@ -45,7 +45,7 @@ const Contact = () => {
                     target='_blank'
                     rel='noreferrer'
                   >
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                    <div className='rounded-full shadow-lg shadow-gray-400 text-[#E6D75C] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaWhatsapp />
                     </div>
 

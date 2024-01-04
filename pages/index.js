@@ -11,7 +11,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Murillo Dev</title>
-        <meta name="Estudante dedicado ao desenvolvimento Front-end com habilidades em JavaScript (ES6), Node.js, React, Next, HTML5 e CSS3" />
+        <meta name="Estudante dedicado ao desenvolvimento Front-end com habilidades em JavaScript (ES6), HTML5, CSS3, Tailwind, React, Next" />
       </Head>
     <Main />
     <About />

@@ -16,8 +16,7 @@ const twitch = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Plataforma de streaming </h2>
-          <h3>Next JS / Tailwind / Next Auth</h3>
+          <h2 className='py-2'>DesignX Website </h2>
         </div>
       </div>
 
@@ -26,10 +25,9 @@ const twitch = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            Ipsum Loren
           </p>
           <a
-            href='https://github.com/murillonunes1'
+            href='https://designx-rust.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
@@ -49,7 +47,7 @@ const twitch = () => {
             <p className='text-center font-bold pb-2'>Tecnologias</p>
             <div className='grid grid-cols-3 md:grid-cols-1'>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Next.JS
+                <RiRadioButtonFill className='pr-1' /> HTML5
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> Tailwind
@@ -61,7 +59,7 @@ const twitch = () => {
           </div>
         </div>
         
-        <p className='underline cursor-pointer'>Back</p>
+        <p className='underline cursor-pointer'>Voltar</p>
         
       </div>
     </div>

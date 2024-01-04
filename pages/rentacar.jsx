@@ -17,8 +17,7 @@ const crypto = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>App RentACar</h2>
-          <h3>React JS / Tailwind / TypeScript</h3>
+          <h2 className='py-2'>Business Website</h2>
         </div>
       </div>
 
@@ -27,17 +26,17 @@ const crypto = () => {
           <p>Projeto</p>
           <h2>Overview</h2>
           <p>
-            Lorem ipsum
+            
           </p>
           <a
-            href='#'
+            href='https://github.com/murillonunes1'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Código</button>
           </a>
           <a
-            href='#'
+            href='https://businessws.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
@@ -50,28 +49,19 @@ const crypto = () => {
             <p className='text-center font-bold pb-2'>Tecnologias</p>
             <div className='grid grid-cols-3 md:grid-cols-1 '>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> React
+                <RiRadioButtonFill className='pr-1' /> JavaScript
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tailwind
+                <RiRadioButtonFill className='pr-1' /> HTML5
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Javascript
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Firebase
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Coin Gecko API
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Routes
+                <RiRadioButtonFill className='pr-1' /> CSS
               </p>
             </div>
           </div>
         </div>
         <Link href='/#projects'>
-          <p className='underline cursor-pointer'>Back</p>
+          <p className='underline cursor-pointer'>Voltar</p>
         </Link>
       </div>
     </div>

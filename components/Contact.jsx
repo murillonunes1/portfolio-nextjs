@@ -10,13 +10,12 @@ const Contact = () => {
   return (
     <div id='contact' className='w-full lg:h-screen'>
       <div className='max-w-[1000px] m-auto px-2 py-16 w-full '>
-        <p className='text-xl tracking-widest uppercase text-[#fff]'>
+        <p className='text-xl tracking-widest uppercase text-[#E6D75C]'>
           Contato
         </p>
-        <h2 className='py-4'>Contact me</h2>
         <div className='grid lg:grid-cols-5 gap-8'>
           {/* esquerda */}
-          <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 text-[#E6D75C] rounded-xl p-4'>
+          <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4'>
             <div className='lg:p-4 h-full '>
               <div>
                 <Image

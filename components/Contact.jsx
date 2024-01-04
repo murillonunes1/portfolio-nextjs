@@ -25,7 +25,7 @@ const Contact = () => {
                 />
               </div>
               <div>
-                <h2 className='py-2'>Murillo Dev</h2>
+                <h2 className='py-2 text-[#E6D75C]'>Murillo Dev</h2>
                 <p>Front-End Developer</p>
               </div>
               <div>

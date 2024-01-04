@@ -26,7 +26,7 @@ const netflix = () => {
           <p>Projeto</p>
           <h2>AutoCenter Website</h2>
           <a
-            href='https://github.com/murillonunes1'
+            href='https://github.com/murillonunes1/autocenter'
             target='_blank'
             rel='noreferrer'
           >

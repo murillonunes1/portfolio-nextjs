@@ -26,7 +26,7 @@ const property = () => {
           <h2>Co Web</h2>
           
           <a
-            href='https://github.com/murillonunes1'
+            href='https://github.com/murillonunes1/coweb'
             target='_blank'
             rel='noreferrer'
           >

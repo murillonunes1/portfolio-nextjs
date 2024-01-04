@@ -11,7 +11,7 @@ const Main = () => {
         <div>
     
           <h1 className='py-4 text-gray-700'>
-            <span className='text-[#df6434]'> Murillo Dev</span>
+            <span className='text-[#E6D75C]'> Murillo Dev</span>
           </h1>
           <h2 className='py-2 text-gray-50'> Espero que você tenha uma ótima experiência visitando meu website!</h2>
           <p className='py-4 text-gray-50 sm:max-w-[70%] m-auto'>

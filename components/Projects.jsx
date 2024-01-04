@@ -17,30 +17,26 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Website comercial'
+            title='Caratta Oliva Website'
             backgroundImg={propertyImg}
             projectUrl='/coweb'
-            tech='React JS'
           />
           <ProjectItem
-            title='App RentACar'
+            title='Business Website'
             backgroundImg={cryptoImg}
             projectUrl='/rentacar'
-            tech='React JS'
 
           />
           <ProjectItem
-            title='Página de e-commerce'
+            title='AutoCenter Website'
             backgroundImg={netflixImg}
             projectUrl='/ecommerce'
-            tech='Next JS'
 
           />
           <ProjectItem
-            title='Plataforma de stream'
+            title='DesignX Website'
             backgroundImg={twitchImg}
             projectUrl='/stream'
-            tech='Next JS'
 
           />
         </div>

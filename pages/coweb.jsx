@@ -23,19 +23,17 @@ const property = () => {
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8'>
         <div className='col-span-4'>
           <p>Projeto</p>
-          <h2>Overview</h2>
-          <p>
-            Co Web
-          </p>
+          <h2>Co Web</h2>
+          
           <a
-            href='https://coweb-murillonunes1.vercel.app/'
+            href='https://github.com/murillonunes1'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Código</button>
           </a>
           <a
-            href='https://github.com/murillonunes1'
+            href='https://coweb-murillonunes1.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
@@ -47,7 +45,7 @@ const property = () => {
             <p className='text-center font-bold pb-2'>Tecnologias</p>
             <div className='grid grid-cols-3 md:grid-cols-1'>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> React
+                <RiRadioButtonFill className='pr-1' /> HTML5
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> Tailwind

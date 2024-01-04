@@ -24,10 +24,7 @@ const netflix = () => {
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8'>
         <div className='col-span-4'>
           <p>Projeto</p>
-          <h2>Overview</h2>
-          <p>
-            AutoCenter Website
-          </p>
+          <h2>AutoCenter Website</h2>
           <a
             href='https://github.com/murillonunes1'
             target='_blank'

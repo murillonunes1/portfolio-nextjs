@@ -23,7 +23,7 @@ const Main = () => {
               target='_blank'
               rel='noreferrer'
             >
-              <div className='rounded-full shadow-lg shadow-gray-400 bg-yellow-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+              <div className='rounded-full shadow-lg shadow-gray-400 text-[#E6D75C] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaLinkedinIn />
               </div>
             </a>
@@ -32,17 +32,17 @@ const Main = () => {
               target='_blank'
               rel='noreferrer'
             >
-              <div className='rounded-full shadow-lg shadow-gray-400 bg-yellow-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+              <div className='rounded-full shadow-lg shadow-gray-400 text-[#E6D75C] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaGithub />
               </div>
             </a>
             <Link href="https://wa.me/5534991571397">
-              <div className='rounded-full shadow-lg shadow-gray-400 bg-yellow-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+              <div className='rounded-full shadow-lg shadow-gray-400 text-[#E6D75C] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaWhatsapp />
               </div>
             </Link>
             <Link href='/resume'>
-              <div className='rounded-full shadow-lg shadow-gray-400 bg-yellow-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+              <div className='rounded-full shadow-lg shadow-gray-400 text-[#E6D75C] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <BsFillPersonLinesFill />
               </div>
             </Link>

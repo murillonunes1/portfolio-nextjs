@@ -4,7 +4,7 @@ import React from 'react';
 import cowebImg from '../public/assets/projects/coweb.png';
 import businessImg from '../public/assets/projects/business.png'
 import autocenterImg from '../public/assets/projects/autocenter.png'
-import designxImg from '../public/assets/projects/designx.png'
+import designXImg from '../public/assets/projects/designx.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -14,7 +14,8 @@ const Projects = () => {
         <p className='text-xl tracking-widest uppercase text-[#E6D75C]'>
           Projetos
         </p>
-        <div className='grid md:grid-cols-2 gap-8 '>
+        <h2 className='py-4'>What I&apos;ve built</h2>
+        <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Caratta Oliva Website'
             backgroundImg={cowebImg}
@@ -23,19 +24,19 @@ const Projects = () => {
           <ProjectItem
             title='Business Website'
             backgroundImg={businessImg}
-            projectUrl='/business'
+            projectUrl='/rentacar'
 
           />
           <ProjectItem
             title='AutoCenter Website'
             backgroundImg={autocenterImg}
-            projectUrl='/autocenter'
+            projectUrl='/ecommerce'
 
           />
           <ProjectItem
             title='DesignX Website'
-            backgroundImg={designxImg}
-            projectUrl='/designx'
+            backgroundImg={designXImg}
+            projectUrl='/stream'
 
           />
         </div>

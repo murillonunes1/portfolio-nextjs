@@ -2,6 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 import cowebImg from '../public/assets/projects/coweb.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
+import Link from 'next/link';
 
 const property = () => {
   return (

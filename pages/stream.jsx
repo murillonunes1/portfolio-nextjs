@@ -58,8 +58,9 @@ const twitch = () => {
             </div>
           </div>
         </div>
-        
-        <p className='underline cursor-pointer'>Voltar</p>
+        <Link href='/#projects'>
+          <p className='underline cursor-pointer'>Voltar</p>
+        </Link>
         
       </div>
     </div>

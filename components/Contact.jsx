@@ -27,9 +27,8 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2 text-[#E6D75C]'>Murillo Dev</h2>
-                <p>Front-End Developer</p>
-                <p>murillonuness@outlook.com</p>
                 <MdEmail />
+                <p>murillonuness@outlook.com</p>
               </div>
               <div>
                 <div className='flex items-center justify py-6 text-[#E6D75C]'>

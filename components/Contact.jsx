@@ -3,6 +3,7 @@ import Link from 'next/link';
 import React, { useState } from 'react';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { FaGithub, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa';
+import { MdEmail } from "react-icons/md";
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
 import ContactImg from '../public/assets/contact.jpg';
 
@@ -27,11 +28,13 @@ const Contact = () => {
               <div>
                 <h2 className='py-2 text-[#E6D75C]'>Murillo Dev</h2>
                 <p>Front-End Developer</p>
+                <p>murillonuness@outlook.com</p>
+                <MdEmail />
               </div>
               <div>
                 <div className='flex items-center justify py-6 text-[#E6D75C]'>
                   <a
-                    href='https://www.linkedin.com/in/murillo-nunes-476564262/'
+                    href='https://www.linkedin.com/in/murillonunesdev/'
                     target='_blank'
                     rel='noreferrer'
                   >

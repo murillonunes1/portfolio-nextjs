@@ -2,6 +2,7 @@
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTLML, CSS, JavaScript, React e NextJs.
+CSS, JavaScript, React e NextJs.
+
 O projeto está hospedado na plataforma Vercel e pode ser acessado por aqui.
 

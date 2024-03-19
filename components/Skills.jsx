@@ -64,7 +64,7 @@ const Skills = () => {
                 <Image src={Angular} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Tailwind</h3>
+                <h3>Angular</h3>
               </div>
             </div>
           </div>

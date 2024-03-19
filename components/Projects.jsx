@@ -18,10 +18,11 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Caratta Oliva Website'
-            backgroundImg={cowebImg}
-            projectUrl='/coweb'
-          />
+            title='Innohub'
+            backgroundImg={innohubImg}
+            projectUrl='/innohub'
+
+          />  
           <ProjectItem
             title='Business Website'
             backgroundImg={businessImg}
@@ -41,10 +42,9 @@ const Projects = () => {
 
           />
           <ProjectItem
-            title='Innohub'
-            backgroundImg={innohubImg}
-            projectUrl='/innohub'
-
+            title='Caratta Oliva Website'
+            backgroundImg={cowebImg}
+            projectUrl='/coweb'
           />
         </div>
       </div>

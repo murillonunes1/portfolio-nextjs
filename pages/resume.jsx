@@ -40,7 +40,7 @@ const resume = () => {
             </div>
         </div>
         <p>
-        Sou um estudante de desenvolvimento front-end, estou dedicado a aprimorar minhas habilidades em programação para fornecer soluções inovadoras e envolventes para os usuários finais. Estou focado atualmente em desenvolver a parte client-side de websites e aplicações web/mobile, desenvolvendo projetos como freelancer, usando habilidades em linguagens de programação como JavaScript e TypeScript, tendo experiência com os principais frameworks de front-end, como React, Angular e Next. Tenho a capacidade de colaborar com outros desenvolvedores e designers para criar soluções inteligentes e escaláveis e também sou capaz de trabalhar de forma independente e gerenciar meus próprios projetos!
+        Sou um desenvolvedor Front-end, dedicado a aprimorar minhas habilidades em programação para fornecer soluções inovadoras e inteligente para os usuários finais. Estou focado atualmente em desenvolver a parte client-side de websites e aplicações web, desenvolvendo projetos para clientes como freelancer, usando habilidades em linguagens de programação como JavaScript e TypeScript, tendo experiência com os principais frameworks de front-end, como React e Angular, além de conhecimentos em back-end e banco de dados.
         </p>
 
         {/* Habilidades */}
@@ -55,7 +55,7 @@ const resume = () => {
             <span className='px-2'>|</span>Next JS
             <span className='px-2'>|</span>SQL
             <span className='px-2'>|</span>Git
-            <span className='px-2'>|</span>PHP
+            <span className='px-2'>|</span>Angular
             <span className='px-2'>|</span>Tailwind
             <span className='px-2'>|</span>Bootstrap
             <span className='px-2'>|</span>RESTAPI
@@ -72,7 +72,7 @@ const resume = () => {
                 Habilidades em front-end usando os frameworks necessários; adição e manutenção de interações, criação de páginas web estruturadas e design responsivo;
               </li>
               <li>
-                Implementação de recursos que interagem com sistemas de back-end, como integrações de API;
+                Contribuir na evolução do design system, implementação de recursos que interagem com sistemas de back-end, como integrações de API;
               </li>
               <li>
                 Resolução de problemas, trabalho em equipe, autodidata, aprendizado rápido, comunicativo e organizado.

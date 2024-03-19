@@ -11,11 +11,11 @@ const Main = () => {
         <div>
     
           <h1 className='py-4 text-gray-700'>
-            <span className='text-[#E6D75C]'> Murillo Dev</span>
+            <span className='text-[#E6D75C]'>Murillo Dev</span>
           </h1>
           <h2 className='py-2 text-gray-50'> Espero que você tenha uma ótima experiência visitando meu website!</h2>
           <p className='py-4 text-gray-50 sm:max-w-[70%] m-auto'>
-          Estudante dedicado ao desenvolvimento Front-end com habilidades em JavaScript, Node.js, Next.js, Git, React, HTML5, CSS3 e Tailwind.
+          Desenvolvedor Front-end com habilidades em JavaScript, React, Angular, Node.js, Next.js, HTML5 e CSS3.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a

@@ -8,10 +8,10 @@ const About = () => {
       <div className='max-w-[900px] m-auto md:grid grid-cols-3 gap-8'>
         <div className='col-span-2'>
           <p className='py-4 text-gray-50'>
-          Sou um estudante de desenvolvimento Front-end com habilidades em JavaScript, Node.js, Next.js, React, HTML5 e CSS3.  Estou dedicado a aprimorar minhas habilidades em programação para fornecer soluções inovadoras e envolventes para os usuários finais. Além de minhas habilidades em programação, sou uma pessoa orientada a resultados e trabalho bem em equipe. Tenho a capacidade de colaborar com outros desenvolvedores e designers para criar soluções inteligentes e escaláveis e também sou capaz de trabalhar de forma independente e gerenciar meus próprios projetos.
+          Sou um desenvolvedor Front-end com habilidades em JavaScript, React, Angular, Node.js, Next.js, HTML5 e CSS3. Estou dedicado a resolver problemas usando tecnologia e a criação de sites e aplicações web visualmente atraentes e intuitivas. Tenho a capacidade de colaborar com outros desenvolvedores e designers para criar soluções inteligentes e escaláveis e também sou capaz de trabalhar de forma independente e gerenciar meus próprios projetos.
           </p>
           <p className='py-4 text-gray-50'>
-          I am a Front-end development student with skills in JavaScript, Node.js, Next.js React, HTML5 and CSS3. I am dedicated to improving my programming skills to provide innovative solutions for end users. In addition to my programming skills, I am a results-oriented person and work well in a team. I have the ability to collaborate with other developers and designers to create smart solutions, and I am also able to work independently and manage my own projects.
+          I am a Front-end developer with skills in JavaScript, React, Angular, Node.js, Next.js, HTML5 e CSS3. I'm dedicated to solving problems using technology and creating visually appealing and intuitive websites and web applications. I have the ability to collaborate with other developers and designers to create smart, scalable solutions and I am also able to work independently and manage my own projects.
           </p>
           
         </div>

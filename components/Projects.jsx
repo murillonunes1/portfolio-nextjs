@@ -5,6 +5,7 @@ import cowebImg from '../public/assets/projects/coweb.png';
 import businessImg from '../public/assets/projects/business.png'
 import autocenterImg from '../public/assets/projects/autocenter.png'
 import designXImg from '../public/assets/projects/designx.png'
+import innohubImg from '../public/assets/projects/innohub.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -37,6 +38,12 @@ const Projects = () => {
             title='DesignX Website'
             backgroundImg={designXImg}
             projectUrl='/stream'
+
+          />
+          <ProjectItem
+            title='Innohub'
+            backgroundImg={innohubImg}
+            projectUrl='/innohub'
 
           />
         </div>

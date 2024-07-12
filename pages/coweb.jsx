@@ -24,7 +24,7 @@ const property = () => {
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8'>
         <div className='col-span-4'>
           <p>Projeto</p>
-          <h2>Co Web</h2>
+          <h2>CoWeb</h2>
           
           <a
             href='https://github.com/murillonunes1/coweb'

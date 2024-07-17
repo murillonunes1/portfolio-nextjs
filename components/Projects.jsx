@@ -8,6 +8,7 @@ import designXImg from '../public/assets/projects/designx.png'
 import innohubImg from '../public/assets/projects/innohub.png'
 import pagpageImg from '../public/assets/projects/pagpage.png'
 import loginImg from '../public/assets/projects/login.png'
+import decoreImg from '../public/assets/projects/decore.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -57,6 +58,11 @@ const Projects = () => {
             title='Página de Login'
             backgroundImg={loginImg}
             projectUrl='/login'
+          /> 
+        <ProjectItem
+            title='DecoreStore'
+            backgroundImg={decoreImg}
+            projectUrl='/decore'
           />
         </div>
       </div>

@@ -7,6 +7,7 @@ import autocenterImg from '../public/assets/projects/autocenter.png'
 import designXImg from '../public/assets/projects/designx.png'
 import innohubImg from '../public/assets/projects/innohub.png'
 import pagpageImg from '../public/assets/projects/pagpage.png'
+import loginImg from '../public/assets/projects/login.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {

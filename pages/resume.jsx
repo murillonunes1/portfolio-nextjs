@@ -9,7 +9,7 @@ const resume = () => {
         <title>Murillo | Resumo</title>
         <meta
           name='description'
-          content='Sou um estudante de desenvolvimento front-end focado com criar experiências digitais.'
+          content='Desenvolvedor front-end focado em criar experiências digitais usando tecnologias de programação.'
         />
         <link rel='icon' href='/fav.png' />
       </Head>
@@ -40,7 +40,7 @@ const resume = () => {
             </div>
         </div>
         <p>
-        Sou um desenvolvedor Front-end, dedicado a aprimorar minhas habilidades em programação para fornecer soluções inovadoras e inteligente para os usuários finais. Estou focado atualmente em desenvolver a parte client-side de websites e aplicações web, desenvolvendo projetos para clientes como freelancer, usando habilidades em linguagens de programação como JavaScript e TypeScript, tendo experiência com os principais frameworks de front-end, como React e Angular, além de conhecimentos em back-end e banco de dados.
+        Sou um desenvolvedor Front-end, dedicado a aprimorar minhas habilidades em programação para fornecer soluções inovadoras e inteligentes para os usuários finais. Tendo experiência sólida nos principais frameworks de front-end, como React e Angular, além de conhecimentos em back-end e banco de dados.
         </p>
 
         {/* Habilidades */}

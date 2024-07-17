@@ -15,7 +15,7 @@ const Main = () => {
           </h1>
           <h2 className='py-2 text-gray-50'> Espero que você tenha uma ótima experiência visitando meu website!</h2>
           <p className='py-4 text-gray-50 sm:max-w-[70%] m-auto'>
-          Desenvolvedor Front-end com habilidades em JavaScript, React, Angular, Node.js, Next.js, HTML5 e CSS3.
+          Desenvolvedor front-end com proficiência em JavaScript e seus principais frameworks, dedicado a resolver problemas usando tecnologia e a criação de sites e aplicações web.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a

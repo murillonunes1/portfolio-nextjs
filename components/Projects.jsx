@@ -39,7 +39,7 @@ const Projects = () => {
           <ProjectItem
             title='Página de Pagamento'
             backgroundImg={designXImg}
-            projectUrl='/pagpage'
+            projectUrl='/stream'
 
           />
           <ProjectItem
@@ -50,7 +50,7 @@ const Projects = () => {
         <ProjectItem
             title='Página de Pagamento'
             backgroundImg={pagpageImg}
-            projectUrl='/stream'
+            projectUrl='/pagpage'
           />  
         </div>
       </div>

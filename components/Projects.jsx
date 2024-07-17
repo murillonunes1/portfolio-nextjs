@@ -52,6 +52,11 @@ const Projects = () => {
             backgroundImg={pagpageImg}
             projectUrl='/pagpage'
           />  
+        <ProjectItem
+            title='Página de Login'
+            backgroundImg={loginImg}
+            projectUrl='/login'
+          />
         </div>
       </div>
     </div>

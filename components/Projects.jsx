@@ -6,6 +6,7 @@ import businessImg from '../public/assets/projects/business.png'
 import autocenterImg from '../public/assets/projects/autocenter.png'
 import designXImg from '../public/assets/projects/designx.png'
 import innohubImg from '../public/assets/projects/innohub.png'
+import pagpageImg from '../public/assets/projects/pagpage.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -36,9 +37,9 @@ const Projects = () => {
 
           />
           <ProjectItem
-            title='DesignX Website'
+            title='Página de Pagamento'
             backgroundImg={designXImg}
-            projectUrl='/stream'
+            projectUrl='/pagpage'
 
           />
           <ProjectItem
@@ -46,6 +47,11 @@ const Projects = () => {
             backgroundImg={cowebImg}
             projectUrl='/coweb'
           />
+        <ProjectItem
+            title='Página de Pagamento'
+            backgroundImg={pagpageImg}
+            projectUrl='/stream'
+          />  
         </div>
       </div>
     </div>

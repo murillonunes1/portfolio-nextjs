@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import pagpageImg from '../public/assets/projects/login.png';
+import loginImg from '../public/assets/projects/login.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -55,7 +55,7 @@ const crypto = () => {
                 <RiRadioButtonFill className='pr-1' /> HTML5
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> CSS3
+                <RiRadioButtonFill className='pr-1' /> Tailwind
               </p>
             </div>
           </div>
